@@ -95,3 +95,13 @@ h2
         padding-top: 50px;
     }
 }
+
+footer{
+    color: blue;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-indent: 15px;
+    border-radius: 15px;
+}
